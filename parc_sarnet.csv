@@ -2,7 +2,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 300,St Pete AG4UU,442.250000,+,5.000000,Tone,146.2,146.2,023,NN,023,Tone->Tone,FM,5.00,S,50W,Skyway Bridge,,,,
 301,Lakeland N4KEG,442.275000,+,5.000000,Tone,82.5,82.5,023,NN,023,Tone->Tone,FM,5.00,S,50W,,,,,
 302,Lake Mary W4CC,444.075000,+,5.000000,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.00,S,50W,FDOT Tower,,,,
-305,Milton KD4FZB,444.725000,+,5.000000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,S,50W,,,,,
+305,Milton KC4YBZ,444.725000,+,5.000000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,S,50W,,,,,
 306,Crestview KC4YBZ,444.900000,+,5.000000,Tone,100.0,100.0,023,NN,023,Tone->Tone,FM,5.00,S,50W,,,,,
 307,Chipley WA4MN,444.750000,+,5.000000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,S,50W,,,,,
 308,Chattahoochee K4GFD,444.975000,+,5.000000,Tone,94.8,88.5,023,NN,023,Tone->Tone,FM,5.00,S,50W,,,,,
